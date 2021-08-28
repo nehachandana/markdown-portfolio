@@ -1,7 +1,7 @@
-*Venice
-*New York
-*Los Angeles
-*Nigara Falls
-*paris
-*Bali
-*Maldives
+* Venice
+* New York
+* Los Angeles
+* Nigara Falls
+* paris
+* Bali
+* Maldives
