@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+*Venice
+*New York
+*Los Angeles
+*Nigara Falls
+*paris
+*Bali
+*Maldives
